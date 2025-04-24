@@ -1,2 +1,2 @@
 # MultiModal
-MultiModal Dementia Prediction model using ResNet-18 and CatBoost Decision treets
+MultiModal Dementia Prediction model using ResNet-18 and CatBoost Decision trees
